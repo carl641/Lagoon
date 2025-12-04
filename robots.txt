@@ -1,0 +1,25 @@
+# Lagoon Marketing - Gulf Shores, Alabama
+# robots.txt
+
+# Allow all search engines
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://lagoonmarketing.com/sitemap.xml
+
+# Crawl delay (optional - helps prevent server overload)
+Crawl-delay: 1
+
+# Disallow specific paths (if needed in the future)
+# Disallow: /admin/
+# Disallow: /private/
+# Disallow: /temp/
+
+# Allow specific important pages
+Allow: /index.html
+Allow: /services.html
+Allow: /cities.html
+Allow: /contact.html
+Allow: /css/
+Allow: /js/
